@@ -1,5 +1,5 @@
 # Classification
-You may find classification instructions in `doc/`
+You may find classification instructions under `doc/`
 
 ## How to start
 
